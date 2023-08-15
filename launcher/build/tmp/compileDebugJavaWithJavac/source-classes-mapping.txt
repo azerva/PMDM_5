@@ -1,0 +1,2 @@
+com/alzemo/UNITY_PMDM05/BuildConfig.java
+ com.alzemo.UNITY_PMDM05.BuildConfig

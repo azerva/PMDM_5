@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "F:\\DAM\\PMDM21-22\\Tarea05\\PMDMTarea5_Alexandre_Zerva_Moreno\\launcher\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_background.png.flat",
+        "source": "F:\\DAM\\PMDM21-22\\Tarea05\\PMDMTarea5_Alexandre_Zerva_Moreno\\launcher\\src\\main\\res\\mipmap-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "F:\\DAM\\PMDM21-22\\Tarea05\\PMDMTarea5_Alexandre_Zerva_Moreno\\launcher\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "F:\\DAM\\PMDM21-22\\Tarea05\\PMDMTarea5_Alexandre_Zerva_Moreno\\launcher\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "F:\\DAM\\PMDM21-22\\Tarea05\\PMDMTarea5_Alexandre_Zerva_Moreno\\launcher\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_app_icon.xml.flat",
+        "source": "F:\\DAM\\PMDM21-22\\Tarea05\\PMDMTarea5_Alexandre_Zerva_Moreno\\launcher\\src\\main\\res\\mipmap-anydpi-v26\\app_icon.xml"
+    },
+    {
+        "merged": "F:\\DAM\\PMDM21-22\\Tarea05\\PMDMTarea5_Alexandre_Zerva_Moreno\\launcher\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_app_icon.png.flat",
+        "source": "F:\\DAM\\PMDM21-22\\Tarea05\\PMDMTarea5_Alexandre_Zerva_Moreno\\launcher\\src\\main\\res\\mipmap-mdpi\\app_icon.png"
+    },
+    {
+        "merged": "F:\\DAM\\PMDM21-22\\Tarea05\\PMDMTarea5_Alexandre_Zerva_Moreno\\launcher\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_app_icon_round.xml.flat",
+        "source": "F:\\DAM\\PMDM21-22\\Tarea05\\PMDMTarea5_Alexandre_Zerva_Moreno\\launcher\\src\\main\\res\\mipmap-anydpi-v26\\app_icon_round.xml"
+    }
+]
